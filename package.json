@@ -1,7 +1,7 @@
 {
-  "name": "rantswithal",
+  "name": "thedailygoings",
   "version": "1.0.0",
-  "description": "Website for Rants With Al",
+  "description": "Website for The Daily GOings",
   "main": "package.json",
   "scripts": {
     "build": "rimraf public/ && hugo",
@@ -9,14 +9,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/yamanickill/rantswithal.git"
+    "url": "git+https://github.com/yamanickill/tdg.git"
   },
   "author": "",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/yamanickill/rantswithal/issues"
+    "url": "https://github.com/yamanickill/tdg/issues"
   },
-  "homepage": "https://github.com/yamanickill/rantswithal#readme",
+  "homepage": "https://github.com/yamanickill/tdg#readme",
   "dependencies": {
     "hugo-bin": "0.116.2",
     "rimraf": "5.0.5"

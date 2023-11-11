@@ -1,6 +1,6 @@
-baseURL = "https://harvestseason.club/"
+baseURL = "https://tdg-pod.netlify.app/"
 languageCode = "en-gb"
-title = "The Harvest Season"
+title = "The Daily GOings"
 theme = "hyde"
 
 [markup]
@@ -10,19 +10,18 @@ theme = "hyde"
   hardWraps = true
 
 [params]
-  themeColor = "theme-base-0f"
+  themeColor = "theme-base-0a"
   layoutReverse = true
-  description = "A podcast about farming simulators"
-  author = "Al McKinlay"
-  email = "ths@10people.co.uk"
+  description = "A daily podcast about Pokemon Go"
+  author = "Hannah"
+  email = "todo@todo"
   category = "Leisure"
   subcategory = "Video Games"
-  year = "2019"
-  itunes = "https://itunes.apple.com/podcast/the-harvest-season/id1449112246?mt=2"
-  pocketcasts = "https://pca.st/z5HX"
-  overcast = "https://overcast.fm/itunes1449112246"
-  spotify = "https://open.spotify.com/show/1T6fbWhiBgH2Ym85KloVEs"
-  youtube = "https://www.youtube.com/channel/UCQFJD0AzhVTQCAlHTQS7RMQ"
+  year = "2023"
+  itunes = "todo"
+  pocketcasts = "todo"
+  overcast = "todo"
+  spotify = "todo"
 
 [menu]
 
@@ -30,12 +29,5 @@ theme = "hyde"
     identifier = "patreon"
     name = "Patreon"
     title = "patreon"
-    url = "https://www.patreon.com/thspod"
-    weight = -1
-
-  [[menu.main]]
-    identifier = "twitter"
-    name = "Twitter"
-    title = "twitter"
-    url = "https://www.twitter.com/thspod"
+    url = "todo"
     weight = -1
