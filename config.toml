@@ -12,7 +12,7 @@ theme = "hyde"
 [params]
   themeColor = "theme-base-06"
   layoutReverse = true
-  description = "A daily podcast about Pokemon Go"
+  description = "A daily podcast about Pokémon GO"
   author = "Hannah"
   email = "todo@todo"
   category = "Leisure"
