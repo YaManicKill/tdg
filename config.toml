@@ -10,7 +10,7 @@ theme = "hyde"
   hardWraps = true
 
 [params]
-  themeColor = "theme-base-0a"
+  themeColor = "theme-base-06"
   layoutReverse = true
   description = "A daily podcast about Pokemon Go"
   author = "Hannah"
